@@ -1,0 +1,343 @@
+US_identifier,State,Number_of_employees,Earnings_last_year,Business_area
+US_0001,Rhode Island,5925,126227690.55,Telecommunications
+US_0002,Oregon,8031,397098807.25,Energy
+US_0003,Maryland,7402,147006013.96,Healthcare
+US_0004,Indiana,8730,213670160.9,Education
+US_0005,New Mexico,836,123543328.25,Real Estate
+US_0006,Missouri,6242,355975702.13,Telecommunications
+US_0007,North Dakota,4683,335631906.78,Technology
+US_0008,Iowa,6580,314295253.99,Transportation
+US_0009,New Hampshire,4229,461445935.36,Manufacturing
+US_0010,South Carolina,7424,134857024.37,Transportation
+US_0011,Nevada,4507,183242411.14,Energy
+US_0012,Kansas,3556,476597278.81,Transportation
+US_0013,Rhode Island,9568,393931582.65,Education
+US_0014,Maine,1597,46899389.07,Finance
+US_0015,Idaho,3732,154371329.09,Finance
+US_0016,Utah,5660,145946469.07,Finance
+US_0017,Utah,2250,324109992.8,Manufacturing
+US_0018,Alaska,3672,71496430.19,Healthcare
+US_0019,Kansas,2088,300830914.18,Transportation
+US_0020,New Mexico,1970,351992124.43,Manufacturing
+US_0021,Wisconsin,3640,105586443.1,Technology
+US_0022,Michigan,8389,324670745.12,Real Estate
+US_0023,South Carolina,3871,183606186.52,Retail
+US_0024,West Virginia,7494,143927411.4,Healthcare
+US_0025,Ohio,5614,24600022.46,Healthcare
+US_0026,Massachusetts,3634,263108532.76,Real Estate
+US_0027,Colorado,9354,291129103.71,Education
+US_0028,Maine,7330,105687865.01,Technology
+US_0029,Arkansas,796,367237891.22,Healthcare
+US_0030,Illinois,6826,492258332.56,Energy
+US_0031,Texas,4471,373064258.24,Transportation
+US_0032,Washington,4921,89978520.53,Finance
+US_0033,Delaware,1458,244939928.85,Retail
+US_0034,Kansas,4595,298140393.57,Manufacturing
+US_0035,Kentucky,3990,9633138.75,Manufacturing
+US_0036,Alabama,4282,209675093.99,Real Estate
+US_0037,Iowa,682,366283819.58,Transportation
+US_0038,Rhode Island,7856,449555333.18,Technology
+US_0039,South Dakota,4584,49200648.41,Energy
+US_0040,Oklahoma,7452,253618960.91,Healthcare
+US_0041,Wyoming,8625,62408502.85,Telecommunications
+US_0042,Wyoming,2547,86094343.79,Healthcare
+US_0043,Arkansas,2810,437396709.98,Education
+US_0044,Nebraska,2607,447105897.26,Energy
+US_0045,Kentucky,8601,177710412.91,Finance
+US_0046,Wyoming,403,413891310.87,Education
+US_0047,Washington,255,320249050.5,Finance
+US_0048,Tennessee,9299,134963336.95,Education
+US_0049,Kentucky,5202,218187494.56,Real Estate
+US_0050,Louisiana,9109,471503103.27,Manufacturing
+US_0051,Hawaii,1925,25110975.63,Finance
+US_0052,Massachusetts,7672,264116463.24,Manufacturing
+US_0053,New Mexico,5037,441295199.82,Real Estate
+US_0054,Rhode Island,8228,240564695.31,Education
+US_0055,Oregon,6237,248371011.92,Healthcare
+US_0056,Delaware,8412,413091847.2,Real Estate
+US_0057,Louisiana,3893,277153188.84,Telecommunications
+US_0058,Rhode Island,1649,482010252.62,Retail
+US_0059,Montana,5878,151530144.65,Finance
+US_0060,Alabama,5913,149310934.76,Real Estate
+US_0061,West Virginia,5918,288496639.25,Telecommunications
+US_0062,Virginia,1479,308477967.73,Retail
+US_0063,California,4127,162355194.71,Healthcare
+US_0064,Oregon,7858,457283386.18,Education
+US_0065,New Hampshire,4731,172710358.38,Education
+US_0066,Texas,6831,334411030.19,Retail
+US_0067,Texas,8033,169695744.27,Retail
+US_0068,Montana,4995,25971631.53,Technology
+US_0069,Arizona,335,104638570.84,Retail
+US_0070,Massachusetts,5709,487397171.45,Healthcare
+US_0071,North Dakota,9783,225509050.57,Telecommunications
+US_0072,Arizona,5966,358993425.62,Transportation
+US_0073,Kentucky,8717,97515383.58,Energy
+US_0074,Tennessee,5909,387834555.68,Technology
+US_0075,Colorado,8654,124546766.85,Telecommunications
+US_0076,Kansas,4219,137778841.99,Manufacturing
+US_0077,West Virginia,8701,12906453.96,Real Estate
+US_0078,Arizona,1473,162341791.02,Real Estate
+US_0079,Massachusetts,9377,410916189.85,Finance
+US_0080,Vermont,1840,23277181.59,Healthcare
+US_0081,Alabama,2115,113234930.3,Technology
+US_0082,Florida,1589,336554631.02,Telecommunications
+US_0083,New Hampshire,4075,93751870.76,Real Estate
+US_0084,Alabama,8829,18449461.23,Manufacturing
+US_0085,Alaska,195,418407528.18,Transportation
+US_0086,South Carolina,8057,373861148.65,Manufacturing
+US_0087,Hawaii,6124,431997106.37,Real Estate
+US_0088,Missouri,6067,343612989.42,Education
+US_0089,Nebraska,231,378092558.26,Education
+US_0090,Ohio,6371,241204099.2,Education
+US_0091,New Mexico,8894,128604192.52,Healthcare
+US_0092,Oregon,917,457831372.02,Education
+US_0093,North Carolina,7213,377892132.25,Technology
+US_0094,Massachusetts,1957,51103355.94,Education
+US_0095,Nebraska,9652,298941070.0,Finance
+US_0096,Montana,5873,421964703.35,Real Estate
+US_0097,Nebraska,3920,452083306.19,Healthcare
+US_0098,Florida,1341,109657029.07,Transportation
+US_0099,Kentucky,8130,184943841.57,Manufacturing
+US_0100,Illinois,6231,39330076.06,Education
+US_0101,Illinois,2097,309358961.16,Education
+US_0102,Indiana,6426,206791732.08,Retail
+US_0103,North Carolina,7299,325630028.81,Energy
+US_0104,Hawaii,3788,382240468.22,Transportation
+US_0105,Nebraska,2390,386927466.38,Telecommunications
+US_0106,New Mexico,7749,222515598.05,Manufacturing
+US_0107,Arkansas,9757,343849177.92,Finance
+US_0108,California,6232,64239128.49,Real Estate
+US_0109,Montana,1258,91677223.35,Real Estate
+US_0110,Louisiana,3227,203588530.45,Healthcare
+US_0111,South Dakota,4938,257819624.51,Retail
+US_0112,Connecticut,4279,278005143.03,Technology
+US_0113,Arkansas,452,341502238.56,Telecommunications
+US_0114,New York,4217,141792987.8,Manufacturing
+US_0115,New Hampshire,329,46186823.24,Real Estate
+US_0116,Hawaii,3550,279587331.5,Telecommunications
+US_0117,Colorado,6502,361413549.17,Education
+US_0118,Florida,3707,191697815.76,Education
+US_0119,Nevada,9610,193329457.69,Energy
+US_0120,Vermont,3326,285831780.52,Real Estate
+US_0121,Connecticut,1013,294494965.44,Healthcare
+US_0122,Connecticut,9520,239497189.73,Retail
+US_0123,New Hampshire,9816,122044318.52,Energy
+US_0124,Delaware,1789,60568835.95,Real Estate
+US_0125,Kansas,3677,102921488.85,Education
+US_0126,Nevada,6901,58028918.76,Finance
+US_0127,Vermont,2240,348852849.36,Energy
+US_0128,Utah,8822,276923279.34,Telecommunications
+US_0129,Louisiana,4673,441607655.39,Telecommunications
+US_0130,Illinois,377,391300014.71,Retail
+US_0131,Idaho,4398,287184251.03,Education
+US_0132,Minnesota,9426,365632332.2,Transportation
+US_0133,Connecticut,7072,373273063.62,Real Estate
+US_0134,Louisiana,7617,119412476.59,Finance
+US_0135,Utah,9582,321583529.44,Finance
+US_0136,Pennsylvania,7042,276499292.72,Transportation
+US_0137,Oregon,9115,261796260.92,Manufacturing
+US_0138,Ohio,8631,375861627.21,Real Estate
+US_0139,Oklahoma,6300,495335324.38,Transportation
+US_0140,Mississippi,1022,33339862.08,Finance
+US_0141,Missouri,2870,7413648.11,Transportation
+US_0142,New Mexico,6814,336555887.93,Education
+US_0143,Idaho,9776,240018305.89,Education
+US_0144,Arkansas,1078,101125636.43,Education
+US_0145,Massachusetts,5132,293223269.23,Education
+US_0146,Louisiana,3123,178741938.24,Real Estate
+US_0147,Vermont,1912,257568066.35,Retail
+US_0148,Nevada,4417,66108566.06,Real Estate
+US_0149,Oklahoma,5931,232365600.35,Transportation
+US_0150,Iowa,465,189967519.18,Finance
+US_0151,Indiana,4501,110873315.22,Telecommunications
+US_0152,Rhode Island,4078,119308992.62,Education
+US_0153,Alabama,1717,25046999.65,Energy
+US_0154,Nevada,5879,446452521.57,Transportation
+US_0155,California,5797,217621013.38,Education
+US_0156,Louisiana,4008,151845190.23,Technology
+US_0157,Connecticut,7855,188831753.21,Manufacturing
+US_0158,Oregon,7747,207134008.1,Retail
+US_0159,Wisconsin,1977,134399102.31,Transportation
+US_0160,Michigan,6076,27259787.2,Energy
+US_0161,Rhode Island,1222,236377980.88,Real Estate
+US_0162,Colorado,70,443731897.65,Retail
+US_0163,Rhode Island,4295,158309199.38,Telecommunications
+US_0164,Arizona,1988,86731281.97,Finance
+US_0165,South Carolina,1337,120012190.85,Energy
+US_0166,Oregon,3157,86944129.0,Telecommunications
+US_0167,Mississippi,5547,242265897.11,Finance
+US_0168,Nebraska,3632,159041406.71,Real Estate
+US_0169,Kentucky,9614,249376061.24,Real Estate
+US_0170,Arizona,4239,112309059.42,Real Estate
+US_0171,Kentucky,3491,325034735.43,Healthcare
+US_0172,Mississippi,2420,406024910.79,Energy
+US_0173,North Carolina,7755,74141504.78,Real Estate
+US_0174,Rhode Island,4156,419271849.66,Telecommunications
+US_0175,Idaho,8738,363274636.27,Finance
+US_0176,Colorado,1436,330539189.44,Retail
+US_0177,Idaho,3390,61088133.78,Manufacturing
+US_0178,Colorado,1525,38432238.62,Transportation
+US_0179,Vermont,9839,464075029.91,Finance
+US_0180,Idaho,6381,327531120.78,Technology
+US_0181,California,1764,345553791.14,Retail
+US_0182,Washington,752,177709174.57,Transportation
+US_0183,Illinois,6959,257323156.19,Finance
+US_0184,Hawaii,1660,9171736.65,Education
+US_0185,Massachusetts,6130,314425708.89,Retail
+US_0186,Hawaii,1256,358982411.41,Telecommunications
+US_0187,Illinois,3945,349638436.52,Manufacturing
+US_0188,Wisconsin,2595,76011753.64,Education
+US_0189,Ohio,4062,460008249.1,Finance
+US_0190,North Dakota,7896,63926092.1,Technology
+US_0191,Colorado,4336,479157798.55,Telecommunications
+US_0192,Delaware,6070,53645775.48,Healthcare
+US_0193,Pennsylvania,6847,245020558.49,Finance
+US_0194,North Carolina,7075,199806813.46,Real Estate
+US_0195,Texas,4472,124406389.14,Retail
+US_0196,Ohio,1221,224016457.71,Transportation
+US_0197,Florida,5650,56916849.71,Education
+US_0198,Nevada,8280,151744865.15,Finance
+US_0199,Texas,3731,298997580.8,Telecommunications
+US_0200,South Carolina,4845,131721609.3,Retail
+US_0201,Utah,3019,66276616.67,Transportation
+US_0202,Alabama,8037,8419874.97,Real Estate
+US_0203,Maryland,4180,256570403.69,Finance
+US_0204,Minnesota,4113,264177035.2,Manufacturing
+US_0205,Wyoming,6761,332354065.52,Healthcare
+US_0206,Alaska,7071,160742186.83,Telecommunications
+US_0207,Nebraska,3900,471045585.53,Education
+US_0208,Mississippi,2266,259050332.13,Real Estate
+US_0209,Montana,6019,169930592.97,Retail
+US_0210,New Mexico,1612,181711193.42,Energy
+US_0211,West Virginia,9731,237983884.14,Healthcare
+US_0212,Kansas,444,96393359.38,Manufacturing
+US_0213,Alaska,6454,30897801.28,Finance
+US_0214,South Carolina,2712,369047857.63,Telecommunications
+US_0215,Massachusetts,6734,452623861.16,Transportation
+US_0216,Iowa,141,243076349.24,Transportation
+US_0217,Alabama,5401,178713008.37,Finance
+US_0218,New Mexico,9581,154421206.0,Manufacturing
+US_0219,Minnesota,3152,363758166.71,Transportation
+US_0220,Pennsylvania,1679,122266342.26,Retail
+US_0221,Texas,237,59591807.85,Retail
+US_0222,Kansas,6951,443645122.68,Real Estate
+US_0223,New York,3982,222211884.42,Telecommunications
+US_0224,Idaho,4537,326887620.16,Finance
+US_0225,Pennsylvania,5793,280493767.49,Technology
+US_0226,Colorado,3126,127475466.94,Energy
+US_0227,North Carolina,5730,481251527.79,Real Estate
+US_0228,Alaska,8026,196709077.47,Education
+US_0229,Kentucky,5818,293251788.52,Education
+US_0230,Connecticut,3001,120627235.48,Telecommunications
+US_0231,Washington,4085,152411347.19,Education
+US_0232,Mississippi,7650,30410806.6,Retail
+US_0233,Oregon,8187,169017551.49,Technology
+US_0234,Texas,8880,267347858.27,Real Estate
+US_0235,Mississippi,4938,494516038.21,Technology
+US_0236,Arizona,752,328949600.79,Energy
+US_0237,Hawaii,894,45924425.11,Real Estate
+US_0238,Missouri,243,306310356.37,Real Estate
+US_0239,Vermont,8024,496947295.15,Education
+US_0240,North Carolina,7496,474772099.06,Real Estate
+US_0241,New Hampshire,9065,97821474.18,Retail
+US_0242,Mississippi,3364,286867441.43,Energy
+US_0243,Louisiana,8245,386052025.28,Real Estate
+US_0244,Connecticut,7837,7119595.47,Telecommunications
+US_0245,Kentucky,6967,118026921.34,Education
+US_0246,Tennessee,611,155700120.7,Healthcare
+US_0247,Alaska,5458,11607299.99,Transportation
+US_0248,Montana,2975,109639747.34,Transportation
+US_0249,Texas,6734,417618572.27,Manufacturing
+US_0250,Connecticut,9684,157338622.42,Education
+US_0251,Minnesota,2960,224209974.78,Real Estate
+US_0252,Vermont,2647,233317534.51,Finance
+US_0253,Arkansas,6624,63139903.25,Education
+US_0254,Indiana,6437,426416684.13,Manufacturing
+US_0255,Florida,2079,114323197.0,Energy
+US_0256,Iowa,4983,186503672.21,Finance
+US_0257,Arizona,2215,203942976.97,Education
+US_0258,South Dakota,4799,50345491.51,Real Estate
+US_0259,Minnesota,6973,15119125.31,Transportation
+US_0260,Mississippi,2128,287276425.37,Transportation
+US_0261,Ohio,2744,157229468.43,Finance
+US_0262,New York,1858,227700017.86,Energy
+US_0263,Vermont,8398,457529090.05,Education
+US_0264,Alaska,9875,187760939.63,Healthcare
+US_0265,Iowa,7927,498286781.94,Technology
+US_0266,Utah,6163,185683370.81,Finance
+US_0267,California,6315,484474547.63,Real Estate
+US_0268,Maryland,6870,114276544.66,Healthcare
+US_0269,Utah,6718,23334068.04,Real Estate
+US_0270,Georgia,7755,256011569.07,Telecommunications
+US_0271,North Dakota,7014,157894238.1,Technology
+US_0272,Connecticut,7893,399849363.48,Energy
+US_0273,Oregon,9876,19917557.72,Technology
+US_0274,Hawaii,7277,216341216.44,Finance
+US_0275,Washington,7872,13375788.7,Telecommunications
+US_0276,Ohio,7482,126132260.98,Telecommunications
+US_0277,South Carolina,6115,225843681.27,Education
+US_0278,Wyoming,9541,403406289.84,Manufacturing
+US_0279,Nebraska,2187,389482340.94,Technology
+US_0280,Idaho,8568,499546910.32,Technology
+US_0281,North Dakota,3112,471945329.17,Transportation
+US_0282,New Jersey,8739,12507828.56,Transportation
+US_0283,Nevada,6598,458469055.7,Finance
+US_0284,Alaska,2914,256612945.11,Manufacturing
+US_0285,Connecticut,6704,250932146.86,Technology
+US_0286,South Dakota,2727,308615936.25,Education
+US_0287,South Dakota,6472,250143520.56,Energy
+US_0288,Hawaii,9952,456294842.04,Transportation
+US_0289,Rhode Island,4577,196884871.7,Finance
+US_0290,Arizona,7111,171861016.9,Real Estate
+US_0291,Pennsylvania,3675,102793022.04,Education
+US_0292,Indiana,5562,199166431.63,Healthcare
+US_0293,West Virginia,2597,365402941.77,Education
+US_0294,Arkansas,3139,292108802.4,Transportation
+US_0295,Missouri,5998,182215630.71,Education
+US_0296,West Virginia,851,438544145.18,Telecommunications
+US_0297,Texas,7998,392977325.31,Real Estate
+US_0298,West Virginia,2980,195011621.97,Education
+US_0299,North Dakota,8360,485509917.65,Retail
+US_0300,Louisiana,5788,352699721.88,Technology
+US_0301,Indiana,7389,52789238.08,Healthcare
+US_0302,Ohio,7608,413044804.09,Manufacturing
+US_0303,Wisconsin,4130,490823304.82,Telecommunications
+US_0304,Alaska,5664,454025095.3,Manufacturing
+US_0305,Arkansas,9223,312197887.73,Transportation
+US_0306,Delaware,8174,461664992.25,Real Estate
+US_0307,Illinois,4948,389836961.84,Retail
+US_0308,Montana,8109,217913747.3,Retail
+US_0309,Washington,4462,7994021.03,Telecommunications
+US_0310,Minnesota,2766,123419232.27,Transportation
+US_0311,Iowa,7054,195298942.59,Manufacturing
+US_0312,Georgia,7558,338334347.85,Transportation
+US_0313,Oregon,409,186361442.77,Technology
+US_0314,New Hampshire,2582,130667982.87,Technology
+US_0315,Mississippi,8898,340625189.5,Transportation
+US_0316,North Carolina,6736,216703225.11,Finance
+US_0317,California,9735,21470437.04,Manufacturing
+US_0318,North Carolina,7421,115023955.61,Healthcare
+US_0319,Utah,2785,428848995.27,Telecommunications
+US_0320,Tennessee,6692,75652064.51,Retail
+US_0321,Wyoming,8691,95964218.86,Manufacturing
+US_0322,Maryland,9975,372058845.88,Education
+US_0323,Connecticut,103,359936617.19,Education
+US_0324,South Dakota,9590,57197499.24,Education
+US_0325,Delaware,8295,3634690.8,Transportation
+US_0326,Delaware,184,133673486.41,Energy
+US_0327,Vermont,5256,305351247.17,Retail
+US_0328,Indiana,1269,295476002.14,Finance
+US_0329,South Carolina,6296,240594064.29,Finance
+US_0330,Mississippi,8683,137841125.72,Finance
+US_0331,California,1640,143368243.05,Manufacturing
+US_0332,Oklahoma,1254,17108628.84,Manufacturing
+US_0333,Maryland,3524,114417845.3,Energy
+US_0334,Oklahoma,9531,437249699.42,Manufacturing
+US_0335,South Dakota,2112,260232955.22,Education
+US_0336,Utah,7611,371908012.03,Telecommunications
+US_0337,Nevada,7980,485039375.14,Retail
+US_0338,South Carolina,2081,475163831.19,Education
+US_0339,Alabama,1633,468555163.81,Retail
+US_0340,Montana,8423,86657104.81,Finance
+US_0341,North Carolina,5759,290821379.45,Education
+US_0342,South Carolina,8563,444225727.74,Retail
