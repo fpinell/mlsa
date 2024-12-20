@@ -1,0 +1,41 @@
+digraph CFG {
+    // Function f
+    subgraph cluster_f {
+        label = "Function f(a, b)";
+        f_entry [label="Entry"];
+        f_if [label="if a > 0"];
+        f_return_sum [label="return a + b"];
+        f_return_diff [label="return a - b"];
+        f_exit [label="Exit"];
+
+        f_entry -> f_if;
+        f_if -> f_return_sum [label="True"];
+        f_if -> f_return_diff [label="False"];
+        f_return_sum -> f_exit;
+        f_return_diff -> f_exit;
+    }
+
+    // Function g
+    subgraph cluster_g {
+        label = "Function g(a, b)";
+        g_entry [label="Entry"];
+        g_if [label="if b < 0"];
+        g_call_f_neg [label="call f(a, -b)"];
+        g_call_f [label="call f(a, b)"];
+        g_return_neg [label="return result of f(a, -b)"];
+        g_return [label="return result of f(a, b)"];
+        g_exit [label="Exit"];
+
+        g_entry -> g_if;
+        g_if -> g_call_f_neg [label="True"];
+        g_if -> g_call_f [label="False"];
+        g_call_f_neg -> g_return_neg;
+        g_call_f -> g_return;
+        g_return_neg -> g_exit;
+        g_return -> g_exit;
+    }
+
+    // Function calls
+    g_call_f_neg -> f_entry [label="call"];
+    g_call_f -> f_entry [label="call"];
+}
