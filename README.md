@@ -1,3 +1,5 @@
+## Lesson November 13 has been postponed! 
+
 # Machine Learning for Software Analysis (MLSA) 
 
 ## IMT School for Advanced Studies Lucca - University of Florence 
