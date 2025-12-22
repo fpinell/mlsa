@@ -16,3 +16,8 @@ Of course, Moodle is the main point where to find information and material.
 
 
 ## Lesson October 16 has been postponed! 
+
+
+## Details regarding the project are available here: 
+
+https://github.com/fpinell/mlsa/blob/main/AA20252026/slides/project_description.pdf
